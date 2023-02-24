@@ -1,0 +1,17 @@
+{
+	"font_size": 14,
+	"font_face": "FiraCode Nerd Font",
+	"font_options": ["dlig"],
+	"caret_style": "smooth",
+	"highlight_line": true,
+	"save_on_focus_lost": true,
+	"index_exclude_gitignore": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"tab_size": 2,
+	"word_wrap": true,
+	"color_scheme": "Mariana.sublime-color-scheme",
+}

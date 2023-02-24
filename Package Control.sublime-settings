@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoSpell",
+		"Dockerfile Syntax Highlighting",
+		"Edge Theme",
+		"Elixir",
+		"ElixirFormatter",
+		"ElixirSublime",
+		"File Navigator",
+		"FileIcons",
+		"HTMLBeautify",
+		"HyperClick",
+		"JSON Reindent",
+		"LSP",
+		"LSP-dockerfile",
+		"LSP-elixir",
+		"LSP-terraform",
+		"Mermaid",
+		"Package Control",
+		"REST Client",
+		"SublimeLinter",
+		"SuperElixir",
+		"Terraform",
+	],
+}
